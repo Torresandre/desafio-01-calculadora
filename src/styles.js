@@ -10,10 +10,12 @@ display: flex;
 align-items: center;
 justify-content: center;
 
+
 `
 export const Content = styled.div`
     background-color: #FFFFFF;
     width: 50%;
+    borderRadius: 5px;
 `
 
 export const Row = styled.div`
